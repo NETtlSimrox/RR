@@ -23,6 +23,6 @@ export const story = [
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "I know I’ve hurt you sometimes, and I’m truly sorry. You mean a lot to me, and I’ll always treasure the memories we’ve made together. I hope we can make many more happy memories together. Love you, jaan ❤️",
   },
 ];
